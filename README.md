@@ -1,2 +1,1 @@
 # devkor_study
-hello
