@@ -1,1 +1,0 @@
-# devkor_study
